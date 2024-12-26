@@ -6,10 +6,9 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ahmed-tasin
-&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=ahmed-tasin&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
@@ -94,7 +93,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tasin&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 

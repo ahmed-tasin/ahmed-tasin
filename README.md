@@ -12,24 +12,24 @@ Skills: C / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on [fiverr](https://www.fiverr.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed-tasin](https://github.com/ahmed-tasin)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on [X](https://www.x,con/tasin363/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://lnk.at/tasin](https:lnk.at/tasin)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/tasinananda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://fb.com/tasin49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/tasin29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-tasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-tasin" height="30" width="40" /></a>
 <a href="https://codepen.io/ahmed-tasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmed-tasin" height="30" width="40" /></a>

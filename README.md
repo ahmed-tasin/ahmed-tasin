@@ -1,26 +1,26 @@
 ![I am ahmed-tasin](https://github.com/ahmed-tasin/ahmed-tasin/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Tahsin Ahmed(Tasin)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h1 align="center">Hi 👋, I'm Tasin Ahmed</h1>
+<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 <h4 align="center">Full stack web devolopment learner at Hablu Programmer</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmed-tasin&color=red)
 
-Skills: C / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / MONGO DB
 
 </div>
 
-- 🔭 I’m currently working on [fiverr](https://www.fiverr.com/)
+- 🔭 I’m currently learning
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning MERN Stack
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed-tasin](https://github.com/ahmed-tasin)
 
 - 📝 I regularly write articles on [X](https://www.x,con/tasin363/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Tailwind**
 
 - 📫 How to reach me **xtahsinahmed@gmail.com**
 

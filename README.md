@@ -1,8 +1,7 @@
-![I am ahmed-tasin](https://github.com/ahmed-tasin/ahmed-tasin/blob/main/download.jpg)
 
 <h1 align="center">Hi 👋, I'm Tasin Ahmed</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
-<h4 align="center">Full stack web devolopment learner at Hablu Programmer</h4>
+<h4 align="center">Full stack web devoloper</h4>
 
 <div align="center">
 
@@ -16,15 +15,15 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 
 - 🌱 I’m currently learning MERN Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed-tasin](https://github.com/ahmed-tasin)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ahmed-tasin)
 
-- 📝 I regularly write articles on [X](https://www.x,con/tasin363/)
+- 📝 I regularly write articles on [Twitter](https://www.x,con/tasin363/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Tailwind**
 
 - 📫 How to reach me **xtahsinahmed@gmail.com**
 
-- 📄 All About Me:[https://lnk.at/tasin](https:lnk.at/tasin)
+- 📄 All About Me:[Link](https:lnk.at/tasin)
 
 <h3 align="left">Connect with me:</h3>
 

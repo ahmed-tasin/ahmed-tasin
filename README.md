@@ -54,10 +54,6 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-
-
-<br/>
 <hr/>
 <br/>
 
@@ -85,7 +81,7 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tasin363" target="_blank">
+<a href="https://twitter.com/tasincode" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-tasin/" target="_blank">

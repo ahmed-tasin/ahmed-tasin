@@ -8,6 +8,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ahmed-tasin&color=red)
 
 Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / MONGO DB
+<hr/>
 
 </div>
 
@@ -55,24 +56,19 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <hr/>
 <br/>
-
 ## Github Stats -
-
 <p align="center">
   <a href="https://github.com/ahmed-tasin">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-tasin&theme=radical" alt="Tasin's GitHub Contribution"/>
   </a>
 </p>
-
 <a> 
     <a href="https://github.com/ahmed-tasin"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ahmed-tasin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/ahmed-tasin"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ahmed-tasin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
 ![Tasin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tasin&custom_title=Tasin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>

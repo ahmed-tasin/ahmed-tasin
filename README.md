@@ -35,6 +35,8 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 <a href="https://instagram.com/tasinananda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 </p>
 
+<hr/>
+
 ## Use To Code
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,10 +73,10 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
   <br/>
 </a>
 
-![Tasin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tasin&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Tasin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-tasin&custom_title=Tasin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
-
+<hr/>
 <br/>
 
 ## Connect with me

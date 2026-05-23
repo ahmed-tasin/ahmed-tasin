@@ -12,22 +12,11 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 
 </div>
 
-- 🔭 I’m currently learning
-
-- 🌱 I’m currently learning MERN Stack
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ahmed-tasin)
-
-- 📝 I regularly write articles on [Twitter](https://www.x,con/tasin363/)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Tailwind**
-
 - 📫 How to reach me **xtahsinahmed@gmail.com**
 
-- 📄 All About Me:[Link](https:lnk.at/tasin)
 
 <h3 align="left">Connect with me:</h3>
-
+<hr/>
 <p align="center">
 <a href="https://fb.com/tasin49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/tasin29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
@@ -58,7 +47,9 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <hr/>
 <br/>
+
 ## Github Stats
+
 <p align="center">
   <a href="https://github.com/ahmed-tasin">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-tasin&theme=radical" alt="Tasin's GitHub Contribution"/>

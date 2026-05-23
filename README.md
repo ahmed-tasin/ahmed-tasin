@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasin Ahmed</h1>
-<hr/>
+<h2 align="center">Full stack web devoloper</h2>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
-<h4 align="center">Full stack web devoloper</h4>
+
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Skills: HTML / CSS / TAILWIND / JAVASCRIPT / REACT JS / NODE JS / EXPRESS JS / M
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <hr/>
 <br/>
-## Github Stats -
+## Github Stats
 <p align="center">
   <a href="https://github.com/ahmed-tasin">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-tasin&theme=radical" alt="Tasin's GitHub Contribution"/>

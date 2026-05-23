@@ -1,5 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Tasin Ahmed</h1>
+<hr/>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 <h4 align="center">Full stack web devoloper</h4>
 
